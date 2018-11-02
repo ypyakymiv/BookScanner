@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/yuri/Desktop/BookScanner/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/yuri/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/77bb8ba3e2f7ec6114b26705435275a3/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/yuri/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/9d213bf99650a82f3037ae20326e37ae/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
